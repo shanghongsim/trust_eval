@@ -1,3 +1,7 @@
+# ⚠️ Attention ⚠️
+
+**This repo has been merged into [Trust-Align](https://github.com/declare-lab/trust-align?tab=readme-ov-file) as a package and is no longer being actively maintained! Please refer to [Trust-Align Github](https://github.com/declare-lab/trust-align?tab=readme-ov-file) for the latest version**
+
 # Trust Eval
 
 Welcome to **Trust Eval**! 🌟  
